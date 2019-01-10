@@ -1,11 +1,11 @@
-# Module: MMM-MTA
-The `MMM-MTA` module is to get the MTA status of subway lines in NYC.
+# Module: MMM-MTA-Delays
+This is a fork of konecnyna's module `MMM-MTA` module is to get the MTA status of subway lines in NYC.
 
 # Install
 
 In your `MagicMirror/modules` directory run:
 
-```git clone https://github.com/konecnyna/MMM-MTA.git; cd MMM-MTA/; npm install```
+```git clone https://github.com/ooom416354/MMM-MTA-Delays.git; cd MMM-MTA/; npm install```
 
 ## Using the module
 
@@ -14,7 +14,7 @@ To use this module, add it to the modules array in the `config/config.js` file:
 ````javascript
 modules: [
 	{
-		module: "MMM-MTA",
+		module: "MMM-MTA-Delays",
 		position: "top_right",
 		header: "MTA",
 		config: {
