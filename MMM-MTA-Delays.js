@@ -1,13 +1,13 @@
 /* global Module */
 
 /* Magic Mirror
- * Module: MMM-MTA
+ * Module: MMM-MTA-Delays
  *
  * By Nicholas Konecny
  * MIT Licensed.
  */
 
-Module.register('MMM-MTA', {
+Module.register('MMM-MTA-Delays', {
   start: function() {
     this.linesData = [];
     this.nextTrainData = [];
