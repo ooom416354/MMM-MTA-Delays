@@ -1,8 +1,8 @@
 {
-  "name": "MMM-MTA",
+  "name": "MMM-MTA-Delays",
   "version": "1.0.0",
   "description": "MTA Status for the magic mirror",
-  "main": "MMM-MTA.js",  
+  "main": "MMM-MTA-Delays.js",  
   "author": "",
   "license": "ISC",
   "dependencies": {
